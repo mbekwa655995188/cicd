@@ -1,7 +1,3 @@
-- name: Install dependencies
-  run: |
-    pip install cml
-
 name: Model Training CICD
 permissions:
   id-token: write
